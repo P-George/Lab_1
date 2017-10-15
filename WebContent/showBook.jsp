@@ -62,7 +62,7 @@
 					<br />
 					<br />
 
-					<label class="addBookLbl" for="bookAdded_newBook_publishDate">出版日期：</label>
+					<label class="addBookLbl" for="bookAdded_newBook_publishDate">出版的日期：</label>
 					<s:textfield name="year" class="date" readonly="true" />年
 					<s:textfield name="month" class="date" readonly="true" />月
 					<s:textfield name="day" class="date" readonly="true" />日
