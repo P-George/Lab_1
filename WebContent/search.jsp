@@ -41,7 +41,7 @@
 			</ul>
 		</div>
 		<div id="content">
-			<h3 id="search-head">查询指定作者的全部书目</h3>
+			<h3 id="search-head">查询某一作者的全部书目</h3>
 			<s:form action="searchBooks" theme="simple">
 				<label id="searchLbl" for="searchBooks_searchAuthorName">作者名称：</label>
 				<s:textfield name="searchAuthorName" value="输入作者名字." />

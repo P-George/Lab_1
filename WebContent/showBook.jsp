@@ -11,7 +11,7 @@
 <body>
 
 	<h2 id="headline">
-		<a href="index.jsp">图书管理CRUD-DEMO</a>
+		<a href="index.jsp">图书管理</a>
 	</h2>
 	<div id="main">
 		<div id="header">

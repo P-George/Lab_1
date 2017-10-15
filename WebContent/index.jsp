@@ -26,7 +26,7 @@
 	<div id="main">
 		<div id="header">
 			<ul>
-				<li><a href="<s:url action='list' />">浏览全部图书</a></li>
+				<li><a href="<s:url action='list' />">浏览图书</a></li>
 				<li><a href="<s:url action='listAuthors' />">浏览全部作者</a></li>
 				<li><a href="<s:url action='searchInput' />">查询指定作者</a></li>
 				<li><a href="<s:url action='addBookForm' />">添加图书信息</a></li>
